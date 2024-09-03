@@ -6,7 +6,7 @@ Currently WIP theme for Discord based on Discord-Nordic
 
 # To install:
 ```
-curl -SsL https://raw.githubusercontent.com/Moskas/discord-gruvbox/main/gruvbox.theme.css >> $HOME/.config/BetterDiscord/themes/
+curl -SsL https://raw.githubusercontent.com/Moskas/discord-gruvbox/main/gruvbox.theme.css >> $HOME/.config/BetterDiscord/themes/gruvbox.theme.css
 ```
 
 # To-Do
