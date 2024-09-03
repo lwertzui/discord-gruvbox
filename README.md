@@ -10,7 +10,8 @@ open discord settings -> betterdiscord -> themes
 curl -SsL https://raw.githubusercontent.com/Moskas/discord-gruvbox/main/gruvbox.theme.css >> $HOME/.config/BetterDiscord/themes/gruvbox.theme.css
 ```
 you should now see a popup like this 
-![popup] (./popup.png) 
+
+![popup](./popup.png) 
 
 # To-Do
 Just a rough notes of things to implement
